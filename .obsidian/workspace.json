@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4c3ea066146fdfeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e8ece06a8503e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b136730f0c2f9d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eafc9778e1205c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/深入剖析k8s/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752b304da5e5419d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/k8s源码剖析/k8s架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15164243590b458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7df61920314b0d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "495d264897ccf609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb8b06c5856943b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9db7e90ec3e87d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bc69cba65471152",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dddcc940b4523c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf48fbadb9e9cb98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a218e87341306c17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7baeaf430b273b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae334144e90ca731",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21ea1804c994371d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c15164243590b458",
+  "lastOpenFiles": [
+    "读书笔记/k8s源码剖析/k8s架构.md",
+    "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md",
+    "读书笔记/深入剖析k8s/未命名.md",
+    "读书笔记/未命名.md",
+    "读书笔记/k8s源码剖析",
+    "读书笔记/深入剖析k8s",
+    "README.md",
+    "未命名",
+    "读书笔记"
+  ]
+}
