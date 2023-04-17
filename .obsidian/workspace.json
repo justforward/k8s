@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "98bbb2aa699d190a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc3252398b7730f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f491bb24e2bc2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.1 kubeconfig配置管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63c4f612f0800a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.2 RESTClient 客户端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74ad867437515f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17f6b2a5843a56a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ec2f0490e69770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068d543801ff7945",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0725dc9b00168c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39f03a15f7b3a3de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65061fbc7304ad46",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b2d4f83a0bf344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd6d0d9dc5f8df3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7d5cc35040e2bf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f94c1eaa53dac41d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7cb7ca214c11b206",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "74ad867437515f7e",
+  "lastOpenFiles": [
+    "2、k8s源码剖析/5 client-go 编程式交互/5.2.2 RESTClient 客户端.md",
+    "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+    "2、k8s源码剖析/5 client-go 编程式交互/5.2.1 kubeconfig配置管理.md",
+    "3、code/controller.md",
+    "1、深入剖析k8s/7、k8s网络原理/7.6 找到容器不容易：service、DNS与服务发现.md"
+  ]
+}
