@@ -11,6 +11,9 @@ master服务端（主控节点）主要负责管理和控制整个k8s集群。�
 3）kube-schedule
 集群中pod资源对象的调度服务
 
+Kubernetes scheduler独立运作与其他主要组件之外(例如API Server)，它连接API Server，watch观察，如果有PodSpec.NodeName为空的Pod出现，则开始工作，通过一定得筛选算法，筛选出合适的Node之后，向API Server发起一个绑定指示，申请将Pod与筛选出的Node进行绑定。
+
+
 Node客户端（工作节点），node节点上的工作由Master服务端进行分配，组件包含：
 1）kubectl
 负责管理节点上容器的创建、删除、启停等任务，与master节点进行通信
@@ -57,3 +60,16 @@ Node客户端（工作节点），node节点上的工作由Master服务端进行
 - 节点上的网络代理
 - 通过iptables/ipvs 等配置负载均衡器，为一组pod提供同一个TCP/UDP 流量转发和负载均衡
 
+
+
+k8s scheluer
+
+`Pod.spec.nodeSelector`是通过kubernetes的label-selector机制进行节点选择，由scheduler调度策略MatchNodeSelector进行label匹配，调度pod到目标节点，该匹配规则是强制约束。启用节点选择器的步骤为：
+
+调度的亲和度：指定NodeName和使用NodeSelector调度是最简单的，可以将Pod调度到期望的节点上。
+
+节点亲和（Node Affinity）是指在 Kubernetes 集群中，通过指定 Pod 需要调度到的节点的标签（Label），来限制 Pod 能够被调度到哪些节点的一种方式。
+
+其中，用来指定节点亲和的标签是 `nodeSelector`。可以通过在 Pod 的 YAML 文件中使用 `nodeSelector` 字段来指定需要匹配的标签，
+
+nodeselector字段来制定需要匹配的标签

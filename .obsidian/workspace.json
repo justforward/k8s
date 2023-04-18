@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "file": "读书笔记/k8s源码剖析/k8s架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "file": "读书笔记/k8s源码剖析/k8s架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+                "file": "读书笔记/k8s源码剖析/k8s架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md"
+                "file": "读书笔记/k8s源码剖析/k8s架构.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "74ad867437515f7e",
   "lastOpenFiles": [
-    "2、k8s源码剖析/5 client-go 编程式交互/5.2.2 RESTClient 客户端.md",
+    "读书笔记/k8s源码剖析/第5章 client-go编程式交互.md",
     "2、k8s源码剖析/5 client-go 编程式交互/5.2.3 ClientSet 客户端.md",
+    "2、k8s源码剖析/5 client-go 编程式交互/5.2.2 RESTClient 客户端.md",
     "2、k8s源码剖析/5 client-go 编程式交互/5.2.1 kubeconfig配置管理.md",
     "3、code/controller.md",
     "1、深入剖析k8s/7、k8s网络原理/7.6 找到容器不容易：service、DNS与服务发现.md"
